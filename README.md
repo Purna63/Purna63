@@ -5,19 +5,28 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purna63&label=Profile%20views&color=0e75b6&style=flat" alt="purna63" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/purnach63030947" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/purnach63030947?logo=twitter&style=for-the-badge" alt="https://twitter.com/purnach63030947" /></a> </p>
+- 🌱 I’m currently learning Reactjs and practicing DSA. **.**
 
 - 🌱 I’m currently learning **Bachelor of Technology**
+
+- 👯 I’m looking to collaborate on full stack projects. **.**
+
+- 🤔 I’m looking for help with Backend development. **.**
+
+- 😍 Hobbies:- Listening to music , playing cricket ,coding and gaming . [.](.)
+
+- 😄 Pronouns: He/His [.](.)
+
+- 💬 Ask me about programming languages, anything related to Web development. **.**
 
 - 📫 How to reach me **purnachandrap585@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/purnach63030947" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/purnach63030947" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/purna-chandra-pradhan-008060221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/purna-chandra-pradhan-008060221/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/bapina9777" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/" height="30" width="40" /></a>
-<a href="https://leetcode.com/purna_60/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/purna_60/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/bapina9777" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/bapina9777" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/purna_60/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/purna_60/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/purnachandrap585/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/purnachandrap585/" height="30" width="40" /></a>
 </p>
 
